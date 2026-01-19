@@ -1,0 +1,28 @@
+{
+  "name": "pembersih",
+  "version": "1.0.0",
+  "description": "Auto Cleaner",
+  "keywords": [
+    "Pembersih",
+    "Memori"
+  ],
+  "homepage": "https://github.com/NekomonHub/pembersih#readme",
+  "bugs": {
+    "url": "https://github.com/NekomonHub/pembersih/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/NekomonHub/pembersih.git"
+  },
+  "license": "MIT",
+  "author": "NekomonHub",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "open": "^11.0.0"
+  }
+}
